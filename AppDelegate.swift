@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  HappyTracking
+//  HappyTracking2
 //
 //  Created by Jacob Carlson on 3/3/18.
 //  Copyright © 2018 Jacob Carlson. All rights reserved.
